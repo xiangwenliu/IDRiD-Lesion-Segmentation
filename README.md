@@ -1,4 +1,4 @@
-# Lesion Segmentation
+# Diabetic Retinopathy Lesion Segmentation
 The automatic segmentation of retinal lesions.
 
 # Dependence
