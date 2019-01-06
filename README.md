@@ -5,6 +5,7 @@ The automatic segmentation of retinal lesions.
 * python 2.7 
 * tensorflow 1.6
 * tensorlayer 1.8
+* tensorboard
 
 # Data
 * It consists of 81 images with pixel level annotation, training data 54 samples, test data 27 samples.
