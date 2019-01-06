@@ -1,20 +1,21 @@
-# Dendritic Neural Network
-Improved Expressivity Through Dendritic Neural Networks
+# Lesion Segmentation
+The automatic segmentation of retinal lesions.
 
 # Dependence
 * python 2.7 
 * tensorflow 1.6
 * tensorlayer 1.8
 
-# Image datasets
-Training DENN on CIFAR10 CIFAR100 Fashion and MNIST dataset
-## Image datasets to tfrecord file
-* Convert dataset to tfrecord data
-## images
-* Training DENN on CIFAR10, CIFAR100, Fashion and MNIST dataset
+# Data
+It consists of 81 images with pixel level annotation, training data 54 samples, test data 27 samples.
+[Down Load Indian Diabetic Retinopathy Image Dataset (IDRiD)](https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid)
 
-# UCI datasets
-Training DENN on UCI datasets
+# Performance Evaluation
+Evaluates the performance of the algorithms for lesion segmentation using the available binary masks. The area under precision-recall (AUPR) is used to obtain a single score.
 
-# Transition counts
-Transition counts on DENN, Maxout network and ReLU FNNs
+# Experiment
+<img src="img/2.jpg" width="580">
+
+# Result
+<img src="img/1.jpg" width="580">
+
