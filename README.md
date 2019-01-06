@@ -17,5 +17,5 @@ Evaluates the performance of the algorithms for lesion segmentation using the av
 <img src="img/2.jpg" width="580">
 
 # Result
-<img src="img/1.jpg" width="580">
+<img src="img/1.jpg" width="700">
 
